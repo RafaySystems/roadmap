@@ -21,6 +21,6 @@ These are capabilities that are in active development by our engineering team. D
 These are capabilities we are actively investigating and researching. 
 
 ---
+# Longer Term Roadmap
 
-# Contact 
-For additional details, customers and partners are encouraged to reach out to the Rafay Product Team at product@rafay.co.
+Customers and Partners that are interested in a longer term roadmap (i.e. 12-24 month view) are encouraged to reach out to the Rafay Product Team at product@rafay.co. 
