@@ -9,16 +9,13 @@ This is the public roadmap for the Rafay Kubernetes Operations Platform. This is
 The roadmap is presented in four columns
 
 ## Shipped
-Enhancements that shipped recently (since Jan 2023 onwards). 
-
-!!! Important
-    Additional details for these are available in the [Release Notes](https://docs.rafay.co/releasenotes/overview/) section of our documentation. 
+Enhancements that shipped recently (since Jan 2023 onwards). Additional details for recent releases are available in the [Release Notes](https://docs.rafay.co/releasenotes/overview/) section of our product documentation. 
 
 ## Coming Soon
-Enhancements that are development complete and are being tested by QA. These are expected to ship in the next 30-60 days. 
+A list of enhancements that are development complete and are being validated by our QA team. These are expected to ship in the next 30-60 days. 
 
 ## In Development 
-These are capabilities that are in active development by our engineering team. 
+These are capabilities that are in active development by our engineering team. Depending on size/scope of the feature, these features will roll out in 60-90 days. 
 
 ## Researching
 These are capabilities we are actively investigating and researching. 
