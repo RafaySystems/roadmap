@@ -14,10 +14,13 @@ The roadmap is presented in three columns
 Enhancements that shipped recently. Additional details for these are available in the [Release Notes](https://docs.rafay.co/releasenotes/overview/) section of our documentation. 
 
 ## Coming Soon
-Enhancements that are in active development and testing. These are expected to ship in the next 30-60 days. 
+Enhancements that are development complete and are being tested by QA. These are expected to ship in the next 30-60 days. 
 
 ## In Development 
-These are capabilities we are in active development. These are expected to ship in the next 90-120 days. 
+These are capabilities that are in active development by our engineering team. 
+
+## Researching
+These are capabilities we are actively investigating and researching. 
 
 ---
 
