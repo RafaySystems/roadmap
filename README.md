@@ -1,7 +1,7 @@
 # Rafay Public Roadmap
 This is the public roadmap for the Rafay Kubernetes Operations Platform. This is primarily designed for our customers and partners to learn about our plans for upcoming enhancements and priorities. 
 
-**[View](https://github.com/orgs/RafaySystems/projects/3/views/1)** the roadmap. 
+> **[View](https://github.com/orgs/RafaySystems/projects/3/views/1)** the roadmap. 
 
 --- 
 
