@@ -16,8 +16,8 @@ Enhancements that shipped recently. Additional details for these are available i
 ## Coming Soon
 Enhancements that are in active development and testing. These are expected to ship in the next 30-60 days. 
 
-## Researching 
-These are capabilities we are actively researching and investigating. These are expected to ship in the next 90-120 days. 
+## In Development 
+These are capabilities we are in active development. These are expected to ship in the next 90-120 days. 
 
 ---
 
