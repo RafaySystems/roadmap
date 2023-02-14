@@ -35,7 +35,10 @@ Click this tab to view the roadmap by cluster lifecycle i.e.
 - Amazon EKS
 - Azure AKS
 - Google GKE
-- Imported
+
+### Imported 
+- OpenShift 
+- Upstream Kubernetes 
 
 ### Private Cloud/Datacenters
 - Upstream Kubernetes for VMware
