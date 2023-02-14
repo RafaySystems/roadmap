@@ -32,10 +32,15 @@ Click this tab to view "everything"
 Click this tab to view the roadmap by cluster lifecycle i.e. 
 
 ### Public Cloud
-EKS, AKS, GKE, Imported
+- Amazon EKS
+- Azure AKS
+- Google GKE
+- Imported
 
 ### Private Cloud/Datacenters
-VMware, Upstream k8s for bare metal and VMs, EKS Anywhere  
+- Upstream Kubernetes for VMware
+- Upstream k8s for bare metal and VMs  
+- EKS Anywhere for bare metal and VMs 
 
 ## Services
 Click this tab to view the roadmap for the integrated services
