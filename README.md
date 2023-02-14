@@ -21,7 +21,7 @@ These are capabilities that are in active development by our engineering team. D
 These are capabilities we are actively investigating and researching. These features are likely to roll out >90 days. 
 
 --- 
-# Views
+# Filters/Views
 
 A number of views are available to make it easy for customers to quickly zero in on what they are looking for. 
 
