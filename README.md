@@ -18,9 +18,43 @@ A list of enhancements that are development complete and are being validated by 
 These are capabilities that are in active development by our engineering team. Depending on size/scope of the feature, these features will roll out in 60-90 days. 
 
 ## Researching
-These are capabilities we are actively investigating and researching. 
+These are capabilities we are actively investigating and researching. These features are likely to roll out >90 days. 
+
+--- 
+# Views
+
+A number of views are available to make it easy for customers to quickly zero in on what they are looking for. 
+
+## Unified
+Click this tab to view "everything" 
+
+## Cluster Lifecycle 
+Click this tab to view the roadmap by cluster lifecycle i.e. 
+
+### Public Cloud
+EKS, AKS, GKE, Imported
+
+### Private Cloud/Datacenters
+VMware, Upstream k8s for bare metal and VMs, EKS Anywhere  
+
+## Services
+Click this tab to view the roadmap for the integrated services
+
+- Backup and Restore 
+- Cluster Blueprints 
+- Cost Management 
+- GitOps and App Lifecycle Mgmt 
+- Network Policy Manager 
+- Policy Management 
+- Secrets Management
+- Service Mesh Manager 
+- Visibility & Monitoring 
+- Zero Trust Kubectl Access 
+
+## Core Platform 
+Click this tab to view the roadmap for shared/common platform capabilities such as user management, Single Sign On (SSO), RBAC/ABAC, Audit Logging etc. 
 
 ---
-# Longer Term Roadmap
+# Long Term Roadmap
 
-Customers and Partners that are interested in a longer term roadmap (i.e. 12-24 month view) are encouraged to reach out to the Rafay Product Team at product@rafay.co. 
+Customers and Partners that are interested in a view into the longer term roadmap (i.e. 12-24 month view) are encouraged to reach out to the Rafay Product Team at product@rafay.co. 
